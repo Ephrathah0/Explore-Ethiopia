@@ -1,2 +1,2 @@
 # Explore_Ethiopia
-Internship Project for Icog- ACC
+Sample demonstration one page website for Icog- ACC students using html, css, js, and bootstrap 
